@@ -8,4 +8,4 @@ os 2022-03-19: wsl debian
 devC00template
 devTemplate
 devDotfiles
-
+devLfsScripts
