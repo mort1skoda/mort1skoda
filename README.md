@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning C
 - 📫 mort1skoda@gmail.com
 
-Linux From Scratch
-Arch Linux
-Vim
-Tmux
-C
-CPP
+* Linux From Scratch
+* Arch Linux
+* Vim
+* Tmux
+* C
+* CPP
 
 
